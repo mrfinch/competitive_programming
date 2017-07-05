@@ -48,4 +48,50 @@ class LinkedList
     end
   end
 
+  def is_present? value
+    current_node = @head
+
+    is_present = false
+    while current_node
+      if current_node.value == value
+        is_present = true
+        break
+      end
+      current_node = current_node.next
+    end
+    is_present
+  end
+
+  def reverse!
+    current_node = @head
+    previous_node = nil
+
+    while current_node
+      temp = current_node.next
+      current_node.next = previous_node
+      previous_node = current_node
+      current_node = temp
+    end
+
+    @head = previous_node
+  end
+
+  def print
+    current_node = @head
+
+    while current_node
+      puts current_node.value
+      current_node = current_node.next
+    end
+  end
+
+  def insert_in_front value
+    if is_present? value
+      return false
+    end
+
+    new_node = Node.new(value, @head)
+    @head = new_node
+  end
+
 end
