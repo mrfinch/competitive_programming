@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63205ef1-8ccf-400d-b725-5c56f312f5f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codes/one/two/one/three/a/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/arrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/coin/change/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/de/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/decode/ways/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/graph/DirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/graph/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/graph/UndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/house/robber/two/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/integer/broke/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/longest/palindromic/substring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/perfect/squares/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/api/LogSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/api/LoggerLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/api/SampleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/ConsoleLogSinkImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/FileLogSinkImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/LogLevelSinkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/LogSinkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/SampleLoggerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/phone/test/impl/logger.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/test1/unique/path/with/obstacles/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/two/one/three/b/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/one/two/zero/seven/b/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/add/two/nums/linkedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/binary/inorder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/codeforces/a/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/container/with/most/water/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/copy/list/random/ptr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/delete/duplicates/sorted/array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/epifi/q1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/epifi/q2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/first/last/position/sorted/array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/flatten/nested/list/iterator/NestedInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/flatten/nested/list/iterator/NestedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/fraction/to/recurring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/gas/station/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/goldman/q1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/goldman/q2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/course/sched/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/course/schedule/two/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/detect/cycle/undirected/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/djikstra/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/strongly/connected/components/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/graph/word/ladder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/group/anagrams/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/hackerrank/arrays/left/rotation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/jump/game/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/kth/largest/array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/kth/smallest/bst/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/largest/number/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/lca/binary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/longest/palindromic/substring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/lru/cache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/merge/intervals/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/next/right/pointers/tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/palindrome/partitioning/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/peak/element/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/permutations/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pow/x/n/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/product/except/self/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/api/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/api/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/api/Notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/api/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/impl/NotifyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/impl/PublisherImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/impl/SubscriberImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/pub/sub/uber/pubsubimpl/MessageStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/search/rotated/array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/search/sorted/twod/matrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/set/zeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/sort/colors/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/sort/list/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/subsets/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/surrounded/regions/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/three/sum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/top/k/frequent/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/tree/from/inorder/preorder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/trie/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/BookingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/CabController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/DriverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/DriverCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/LocationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/RiderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/apis/RiderCreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/helpers/RandomIdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/BookingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/Cab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/CabLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/CabType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/Rider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/UserCabBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/UserLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/uda/cab/models/XLCab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/validate/bst/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/word/breaking/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/word/search/Solution.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="86520875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/api/LogSink.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/api/SampleLogger.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/Solution.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/SampleLoggerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/LogSinkFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/LogLevelSinkFactory.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/logger.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/FileLogSinkImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/de/test/Solution.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/ConsoleLogSinkImpl.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/tools/github/srs-platform" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/example/test1/phone/test/impl/SampleLoggerImpl.java" />
+        <option value="$PROJECT_DIR$/src/example/test1/phone/test/impl/FileLogSinkImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TypeCustomizer</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codes" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="two" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+              <item name="three" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="phone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="phone" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeforces-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeforces-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="one" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63205ef1-8ccf-400d-b725-5c56f312f5f1" name="Default Changelist" comment="" />
+      <created>1583652588654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583652588654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1204" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27915975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="JOL" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/api/LoggerLevel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/api/LogSink.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/api/SampleLogger.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/Solution.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/SampleLoggerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/LogSinkFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/LogLevelSinkFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/logger.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/ConsoleLogSinkImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/phone/test/impl/FileLogSinkImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example/test1/de/test/Solution.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/codeforces/java/codeforces.iml" filepath="$PROJECT_DIR$/codeforces/java/codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces-java/codeforces-java.iml" filepath="$PROJECT_DIR$/codeforces-java/codeforces-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces/codeforces1.iml" filepath="$PROJECT_DIR$/codeforces/codeforces1.iml" />
+    </modules>
+  </component>
+</project>
